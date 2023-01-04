@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+</div>
+  <div id="header" align="center">
+     <img src="https://komarev.com/ghpvc/?username=ilya221994&style=flat-square&color=blue" alt=""/>
+<h1>
+  Привет
+  <img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="70px"/>
+</h1>
 <!--
 **ilya221994/ilya221994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
